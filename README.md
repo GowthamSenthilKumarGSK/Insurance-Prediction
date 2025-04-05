@@ -1,5 +1,3 @@
-# Prediction-Insurance
-
 # 🩺 Insurance Cost Prediction
 
 This project aims to predict medical insurance charges based on personal and demographic features such as age, sex, BMI, number of children, smoking status, and region. It includes exploratory data analysis (EDA), preprocessing, visualization, and machine learning model building.
